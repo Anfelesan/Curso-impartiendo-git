@@ -2,7 +2,7 @@
 
 console.log('No te has podido loguear, puto')
 
-//Esta función suma
+//Esta función suma dos números
 function sumar(a, b){
   return a + b;
 }
