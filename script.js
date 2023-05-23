@@ -1,1 +1,1 @@
-const floatArray = array => array.map(e => parseFloat(e));
+const floatArray = array => array.map(e => parseFloat(e));yyhushuhshueshuesuhshuehsehishieiushheieuiheshesuishie
